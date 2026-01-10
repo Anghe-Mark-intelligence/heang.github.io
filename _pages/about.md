@@ -22,7 +22,7 @@ I am currently work as an intern,Solution Architect at NVIDIA.
 
 
 # 🔥 News
-nothing here，remain to be seen
+- *2022.09*: &nbsp;🎉🎉 I started my undergraduate career as a freshman in Computer Science！
 
 # 📝 Publications 
 
@@ -37,7 +37,7 @@ nothing here，remain to be seen
 - *2022-2026*, Artificial Intelligent, College of information engineering.
 
 # 💬 Invited Talks
-2024.9 24th China International Industry Fair,Shanghai
+- *2024.09* 24th China International Industry Fair,Shanghai,Design and Implementation of the ship cleaning robot.
 
 # 💻 Internships
 - *2025.10 - 2026.08*, intern,Solution Architect,[Nvidia](https://www.nvidia.com/en-us/),Beijing,China.
