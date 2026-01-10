@@ -23,8 +23,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+nothing here，remain to be seen
 
 # 📝 Publications 
 
@@ -54,5 +53,5 @@ My research interest includes neural machine translation and computer vision. I 
 nothing here，remain to be seen
 
 # 💻 Internships
-- *2025.10 - 2026.08*, [Nvidia](https://www.nvidia.com/en-us/),Beijing,China.
-- *2023.6 - 2024.8*, Cofounder,[Shanghai Markteam Information Technology Co., Ltd. ](https://www.qcc.com/firm/94ca1a2dde01eb87b668999ac248540d.html),Beijing,China.        
+- *2025.10 - 2026.08*, intern,Solution Architect,[Nvidia](https://www.nvidia.com/en-us/),Beijing,China.
+- *2023.06 - 2024.08*, Cofounder,[Shanghai Markteam Information Technology Co., Ltd. ](https://www.qcc.com/firm/94ca1a2dde01eb87b668999ac248540d.html),Beijing,China.        
