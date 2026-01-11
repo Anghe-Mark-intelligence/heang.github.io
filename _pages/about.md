@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently work as an intern,Solution Architect at NVIDIA.
+I am currently work as an intern,Solution Architect,AI in Industry Project at NVIDIA.
 
 
 
@@ -38,7 +38,7 @@ nothing here，remain to be seen
 - *2022-2026*, Artificial Intelligent, College of information engineering.
 
 # 💬 Invited Talks
-- *2024.09* 24th China International Industry Fair,Shanghai,Design and Implementation of the ship cleaning robot.
+- *2024.09* 24th China International Industry Fair,Shanghai.
 
 # 💻 Internships
 - *2025.10 - 2026.08*, Intern,Solution Architect,[Nvidia](https://www.nvidia.com/en-us/),Beijing,China.
