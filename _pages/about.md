@@ -17,8 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently work as an intern,Solution Architect,AI in Industry Project at NVIDIA.
-
+I am currently work as an intern,Solution Architect,AI in Industry Project at NVIDIA.Simultaneously,i am also a master's student in College of Intelligent Robotics and Advanced Manufacturing,Institute of Trustworthy Embodied AI,Fudan University.My research interests include computer vision,multimedia and embodied AI.
+ 
 
 
 # 🔥 News
