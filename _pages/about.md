@@ -25,7 +25,7 @@ I am currently work as an intern,Solution Architect,AI in Industry Project at NV
 - *2022.09*: &nbsp;🎉🎉 I started my undergraduate career as a freshman in Computer Science！
 
 # 📝 Publications 
-- [SinGS:AnimatableSingle-ImageHumanGaussianSplatswithKinematicPriors](https://eavianwoo.github.io/singsPage/), Yufan Wu1,Xuanhong Chen WenLi, ShunranJia, Hualiang Wei1,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**, WeiminZhang,BingbingNi,WenjunZhang, **CVPR 2025**
+- [SinGS:AnimatableSingle-ImageHumanGaussianSplatswithKinematicPriors](https://eavianwoo.github.io/singsPage/), Yufan Wu,Xuanhong Chen,Wen Li,Shunran Jia, Hualiang Wei,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**, Weimin Zhang,Bingbing Ni,Wenjun Zhang, **CVPR 2025**
 - [Rapid optimization strategy for Chiral Quadrilateral Structures driven by deep learning and computational feedback](https://ieeexplore.ieee.org/document/10591825), Yichen Hai, Haiyan Qiang, Xinyan Wu, **Ang He**, Yi He, **ICCA 2024**
 
 
