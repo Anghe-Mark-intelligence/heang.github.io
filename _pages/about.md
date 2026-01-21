@@ -1,4 +1,4 @@
----
+ ---
 permalink: /
 title: ""
 excerpt: ""
@@ -25,7 +25,7 @@ I am currently work as an intern,Solution Architect,AI in Industry Project at NV
 - *2022.09*: &nbsp;🎉🎉 I started my undergraduate career as a freshman in Computer Science！
 
 # 📝 Publications 
-- [SinGS:AnimatableSingle-ImageHumanGaussianSplatswithKinematicPriors](https://eavianwoo.github.io/singsPage/), Yufan Wu,Xuanhong Chen,Wen Li,Shunran Jia, Hualiang Wei,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**, Weimin Zhang,Bingbing Ni,Wenjun Zhang, **CVPR 2025**
+- [SinGS:Animatable Single-ImageHuman Gaussian Splats with Kinematic Priors](https://eavianwoo.github.io/singsPage/), Yufan Wu,Xuanhong Chen,Wen Li,Shunran Jia, Hualiang Wei,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**, Weimin Zhang,Bingbing Ni,Wenjun Zhang, **CVPR 2025**
 - [Rapid optimization strategy for Chiral Quadrilateral Structures driven by deep learning and computational feedback](https://ieeexplore.ieee.org/document/10591825), Yichen Hai, Haiyan Qiang, Xinyan Wu, **Ang He**, Yi He, **ICCA 2024**
 
 
@@ -40,9 +40,9 @@ I am currently work as an intern,Solution Architect,AI in Industry Project at NV
 
 # 💬 Invited Talks
 -  *2025.03* Nvidia GPU Technology Conference（GTC 2025),San Jose,California,United State.
-- *2024.09* 24th China International Industry Fair,Shanghai.
+-  *2024.09* 24th China International Industry Fair,Shanghai.
 
 # 💻 Internships
 - *2025.10 - 2026.08*, Intern,Solution Architect,[Nvidia](https://www.nvidia.com/en-us/),Beijing,China.
-- *2024.07 - 2024.08*, Research Intern,[Shanghai Jiaotong University]([https://www.nvidia.com/en-us/](https://www.sjtu.edu.cn/)),Shanghai,China.
+- *2024.07 - 2024.08*, Research Intern,[Shanghai Jiaotong University](https://www.sjtu.edu.cn/),Shanghai,China.
 - *2023.06 - 2024.08*, Cofounder,[Shanghai Markteam Information Technology Co., Ltd. ](https://www.qcc.com/firm/94ca1a2dde01eb87b668999ac248540d.html),Shanghai,China.        
