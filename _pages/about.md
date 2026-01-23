@@ -23,6 +23,7 @@ I am currently work as an intern,Solution Architect,AI in Industry Project at NV
 
 # 🔥 News
 - *2022.09*: &nbsp;🎉🎉 I started my undergraduate career as a freshman in Computer Science！
+- 
 
 # 📝 Publications 
 - [SinGS:Animatable Single-ImageHuman Gaussian Splats with Kinematic Priors](https://eavianwoo.github.io/singsPage/), Yufan Wu,Xuanhong Chen,Wen Li,Shunran Jia, Hualiang Wei,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**, Weimin Zhang,Bingbing Ni,Wenjun Zhang, **CVPR 2025**
