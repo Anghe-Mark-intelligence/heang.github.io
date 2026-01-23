@@ -27,7 +27,7 @@ I am currently work as an intern,Solution Architect,AI in Industry Project at NV
 
 # 📝 Publications 
 - [SinGS:Animatable Single-ImageHuman Gaussian Splats with Kinematic Priors](https://eavianwoo.github.io/singsPage/), Yufan Wu,Xuanhong Chen,Wen Li,Shunran Jia, Hualiang Wei,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**, Weimin Zhang,Bingbing Ni,Wenjun Zhang, **CVPR 2025**
-- [Rapid optimization strategy for Chiral Quadrilateral Structures driven by deep learning and computational feedback](https://ieeexplore.ieee.org/document/10591825), Qin Zhang, Haiyan Qiang, **Ang He**, Xiong Hu, **ICCA 2024**
+
 
 
 # 🎖 Honors and Awards
