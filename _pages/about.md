@@ -28,12 +28,13 @@ I am currently work as an intern,Solution Architect,AI in Industry Project at NV
 - [SinGS:Animatable Single-ImageHuman Gaussian Splats with Kinematic Priors](https://eavianwoo.github.io/singsPage/), Yufan Wu,Xuanhong Chen,Wen Li,Shunran Jia, Hualiang Wei,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**, Weimin Zhang,Bingbing Ni,Wenjun Zhang, **CVPR 2025**
 - [Application of Non-Stationary Ship Roll Motion Prediction and Compensation Control Based on VMD-GRU-EC](https://ieeexplore.ieee.org/document/10591825),Qin Zhang,Jia-Bin Li，**Ang He**，Xiong Hu,**ICCA 2024**
 
+# 🧪 Projects
+
 
 
 # 🎖 Honors and Awards
-- *2024.10* Gold Award for Aerise Robot Cup Tournament of Robotic Theory and Design.
-- *2023.10* Second Prize of the [China Robotics Competition and RoboCup China Competition](https://www.caa.org.cn/Content/33.html) -UGV Track(Top 12 Nationwide)
-- *2022.12* Second Prize of the [National Undergrafuate Engineering Practice And Innovation Ability Competioton Shanghai Division Finals](http://www.gcxl.edu.cn/new/index.html) -UAV Track
+- *2024.10* Gold Award for Aerise Robot Cup Tournament of Robotic Theory and Design.--**Unmanned System Track**
+
  
 # 📖 Educations
 - *2026-now*, Computer Science, [College of Intelligent Robotics and Advanced Manufacturing](https://ciram.fudan.edu.cn/xyjj_50955/list.htm), [Institute of Trustworthy Embodied AI](https://teai.fudan.edu.cn/),Fudan University.
