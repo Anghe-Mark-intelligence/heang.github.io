@@ -40,6 +40,7 @@ I am currently work as an intern,Solution Architect,AI in Industry Project at NV
 - *2022-2026*, Artificial Intelligent, College of Information Engineering.
 
 # 💬 Invited Talks
+-  *2026.03* Nvidia GPU Technology Conference（GTC 2026),San Jose,California,United State.
 -  *2025.03* Nvidia GPU Technology Conference（GTC 2025),San Jose,California,United State.
 -  *2024.09* 24th China International Industry Fair,Shanghai.
 
