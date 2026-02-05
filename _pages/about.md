@@ -30,7 +30,7 @@ I am currently work as an intern,Solution Architect,AI in Industry Project at NV
 
 # 🧪 Projects
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Earth-2</div><img src='images/eartch2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Earth-2</div><img src='images/earth2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [NVIDIA Earth-2](https://www.nvidia.cn/high-performance-computing/earth-2/)
