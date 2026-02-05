@@ -25,8 +25,8 @@ I am currently work as an intern,Solution Architect,AI in Industry Project at NV
 - *2022.09*: &nbsp;🎉🎉 I started my undergraduate career as a freshman in Computer Science！
 
 # 📝 Publications 
-- [SinGS:Animatable Single-ImageHuman Gaussian Splats with Kinematic Priors](https://eavianwoo.github.io/singsPage/), Yufan Wu,Xuanhong Chen,Wen Li,Shunran Jia, Hualiang Wei,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**, Weimin Zhang,Bingbing Ni,Wenjun Zhang, **CVPR 2025**
-- [Application of Non-Stationary Ship Roll Motion Prediction and Compensation Control Based on VMD-GRU-EC](https://ieeexplore.ieee.org/document/10591825),Qin Zhang,Jia-Bin Li，**Ang He**，Xiong Hu,**ICCA 2024**
+- [SinGS:Animatable Single-ImageHuman Gaussian Splats with Kinematic Priors](https://eavianwoo.github.io/singsPage/), Yufan Wu,Xuanhong Chen,Wen Li,Shunran Jia, Hualiang Wei,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**,Weimin Zhang,Bingbing Ni,Wenjun Zhang, **CVPR 2025**
+- [Application of Non-Stationary Ship Roll Motion Prediction and Compensation Control Based on VMD-GRU-EC](https://ieeexplore.ieee.org/document/10591825),Qin Zhang,Jia-Bin Li,**Ang He**,Xiong Hu,**ICCA 2024**
 
 # 🧪 Projects
 
