@@ -30,8 +30,12 @@ I am currently work as an intern,Solution Architect,AI in Industry Project at NV
 
 # 🧪 Projects
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Earth-2</div><img src='images/eartch2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-
+[NVIDIA Earth-2](https://www.nvidia.cn/high-performance-computing/earth-2/)
+- NVIDIA Earth-2 combines the powerful capabilities of AI, GPU acceleration, physics simulation, and computer graphics to develop applications that can simulate and visualize weather and climate predictions globally with unprecedented accuracy and speed.
+  
 # 🎖 Honors and Awards
 - *2024.10* Gold Award for Aerise Robot Cup Tournament of Robotic Theory and Design.--**Unmanned System Track**
 
