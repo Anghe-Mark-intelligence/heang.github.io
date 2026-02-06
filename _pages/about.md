@@ -41,7 +41,7 @@ I also serve as a consultant for the [Ultra Dimension](https://ultradimension.cn
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultra Dimension</div><img src='images/ultradimension.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultra Dimension</div><img src='images/ultradimension1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Ultra Dimension](https://ultradimension.cn/#/products)
