@@ -36,7 +36,7 @@ I also serve as a consultant for the [Ultra Dimension](https://ultradimension.cn
 <div class='paper-box-text' markdown="1">
 
 [NVIDIA Earth-2](https://www.nvidia.cn/high-performance-computing/earth-2/)
-- NVIDIA Earth-2 combines the powerful capabilities of AI, GPU acceleration, physics simulation, and computer graphics to develop applications that can simulate and visualize weather and climate predictions globally with unprecedented accuracy and speed.
+- In NVIDIA Earth-2 we combines the powerful capabilities of AI, GPU acceleration, physics simulation, and computer graphics to develop applications that can simulate and visualize weather and climate predictions globally with unprecedented accuracy and speed.
 </div>
 </div>
 
@@ -45,7 +45,7 @@ I also serve as a consultant for the [Ultra Dimension](https://ultradimension.cn
 <div class='paper-box-text' markdown="1">
 
 [Ultra Dimension](https://ultradimension.cn/#/products)
-- Ultra Dimension Embodied AI committed to creating advanced products for STEAM education for young people, exploring the infinite possibilities of artificial intelligence and robotics technology.
+- In Ultra Dimension Embodied AI we committed to creating advanced products for STEAM education for young people, exploring the infinite possibilities of artificial intelligence and robotics technology.
 - A series of embodied intelligent robot products for Steam education for teenagers. With a complete solution of "hardware solution+low code platform+supporting courses", we can solve the pain points of high price and difficult to get started with similar products.
 
 </div>
