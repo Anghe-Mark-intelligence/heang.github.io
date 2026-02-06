@@ -39,6 +39,19 @@ I also serve as a consultant for the [Ultra Dimension](https://ultradimension.cn
 - NVIDIA Earth-2 combines the powerful capabilities of AI, GPU acceleration, physics simulation, and computer graphics to develop applications that can simulate and visualize weather and climate predictions globally with unprecedented accuracy and speed.
 </div>
 </div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ultra Dimension</div><img src='images/ultradimension.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Ultra Dimension](https://ultradimension.cn/#/products)
+- Ultra Dimension Embodied AI committed to creating advanced products for STEAM education for young people, exploring the infinite possibilities of artificial intelligence and robotics technology.
+- A series of embodied intelligent robot products for Steam education for teenagers. With a complete solution of "hardware solution+low code platform+supporting courses", we can solve the pain points of high price and difficult to get started with similar products.
+
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
 - *2024.10* Gold Award for Aerise Robot Cup Tournament of Robotic Theory and Design.--**Unmanned System Track**
 
