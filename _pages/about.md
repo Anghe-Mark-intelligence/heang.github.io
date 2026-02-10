@@ -25,7 +25,7 @@ I also serve as a consultant for the [Ultra Dimension](https://ultradimension.cn
 
 
 # 🔥 News
-- *2024.04*：&nbsp;🎉🎉 One paper is accepted by ICCA 2024
+- *2024.04*: &nbsp;🎉🎉 One paper is accepted by ICCA 2024
 - *2022.09*: &nbsp;🎉🎉 I started my undergraduate career as a freshman in Computer Science
 
 # 📝 Publications 
