@@ -25,7 +25,8 @@ I also serve as a consultant for the [Ultra Dimension](https://ultradimension.cn
 
 
 # 🔥 News
-- *2022.09*: &nbsp;🎉🎉 I started my undergraduate career as a freshman in Computer Science！
+- *2024.04*：&nbsp;🎉🎉 One paper is accepted by ICCA 2024
+- *2022.09*: &nbsp;🎉🎉 I started my undergraduate career as a freshman in Computer Science
 
 # 📝 Publications 
 - [SinGS:Animatable Single-Image Human Gaussian Splats with Kinematic Priors](https://eavianwoo.github.io/singsPage/), Yufan Wu,Xuanhong Chen,Wen Li,Shunran Jia, Hualiang Wei,Kairui Feng,Jialiang Chen,Yuhan Li,**Ang He**,Weimin Zhang,Bingbing Ni,Wenjun Zhang, **CVPR 2025**
